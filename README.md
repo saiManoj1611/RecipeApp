@@ -1,2 +1,2 @@
 # RecipeApp
-This is a simple recipe App which gives provides a list of dessets and thier cooking process along with ingredients.
+Developed a native iOS app using Swift and SwiftUI, integrating TheMealDB API to fetch and display dessert recipes with thumbnails. Implemented navigation and state management with NavigationView and @StateObject. Utilized SwiftUI's AsyncImage for asynchronous image loading and ensured data integrity by filtering out null or empty values. Followed MVVM architecture for a clean and maintainable codebase. Targeted iOS 15, leveraging the latest SwiftUI features. Managed the project with Xcode 15 and Git for version control.
